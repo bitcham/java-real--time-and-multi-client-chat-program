@@ -66,6 +66,19 @@ public class CommandManager{
         command.execute(args, session);
     }
 }
+
+
+```
+```
+ ├── CommandManager.java
+ └── command/
+      ├── Command.java
+      ├── DefaultCommand.java
+      ├── JoinCommand.java
+      ├── MessageCommand.java
+      ├── ChangeCommand.java
+      ├── UsersCommand.java
+      └── ExitCommand.java      
 ```
 
 ## 💭 Command Usage Examples
