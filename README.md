@@ -116,14 +116,6 @@ The application ensures thread safety through:
 - Immutable command objects
 - Thread-safe collections
 
-## 🚀 Future Improvements
-
-- Add private messaging functionality
-- Implement chat rooms
-- Add file sharing capabilities
-- Enhance error handling
-- Add user authentication
-
 ## 📚 Technical Stack
 
 - Java
