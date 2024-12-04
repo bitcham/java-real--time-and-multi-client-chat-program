@@ -71,6 +71,7 @@ public class CommandManager{
 ```
 ```
  ├── CommandManager.java
+ |
  └── command/
       ├── Command.java
       ├── DefaultCommand.java
