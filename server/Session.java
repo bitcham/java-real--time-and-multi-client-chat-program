@@ -59,7 +59,7 @@ public class Session implements Runnable{
         }
         closeAll(socket, input, output);
         closed = true;
-        log("Connection closed: " + socket);  // Changed from Korean to English
+        log("Connection closed: " + socket);  
     }
 
     public String getUsername() {
